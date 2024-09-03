@@ -3,12 +3,12 @@ During this project my task was to identify the top 5 categories of social media
 
 Steps:
 
-1- Read the business requirement brief
-2- Get to know the team for the project
+1- Read the business requirement brief\
+2- Get to know the team for the project\
 3- Data cleaning and modeling
 
 
-Instead of applying these steps in Excel i decided to use python to practice and improve my skills in pandas and matplotlib
+Instead of applying these steps in Excel i decided to use python to practice and improve my skills in pandas and matplotlib\
 I used jupyter notebooks and Google + Chatgpt 4.0 for help with coding.
 
 the project is still ongoing and i will update tomorrow..
