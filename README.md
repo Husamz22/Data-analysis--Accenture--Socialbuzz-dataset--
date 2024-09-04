@@ -1,4 +1,4 @@
-During this project my task was to identify the top 5 categories of social media content that are the most famous.
+During this project my task was to identify the top 5 categories perfered by the useres.
 
 
 Steps:
@@ -13,6 +13,10 @@ Steps:
 
 Instead of applying these steps in Excel i decided to use python to practice and improve my skills\
 I used jupyter notebooks and Google + Chatgpt 4.0 for help with coding.
+
+Using 7 different datasets, the firsts step was to understand the data model and figure out\
+which datasets have a relation, then use only the relevant datasets that contain the data needed to answer the business question.
+then i explored the data using excel and worked on cleaning and transforming it in jupyter notebooks using Python and Pandas library. 
 
 
 Project presentation:
