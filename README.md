@@ -36,7 +36,7 @@ Project presentation:
 
 ![image](https://github.com/user-attachments/assets/040de507-1d0c-466e-b082-6a0da95cdb9e)\
 
-To be updated..
+![image](https://github.com/user-attachments/assets/dd336b00-c8ed-4a85-b41a-bbd103ea69a1)
 
 
 
