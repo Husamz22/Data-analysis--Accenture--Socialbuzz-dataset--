@@ -2,6 +2,9 @@ During this project my task was to identify the top 5 categories perfered by the
 as well as provide valuabe insights and answer some more businees questions regarding the content data.
 
 
+![full-1](https://github.com/user-attachments/assets/49a15890-a7c4-4686-8a17-048451a50f0e)
+
+
 
 Steps:
 
