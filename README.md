@@ -2,7 +2,7 @@ During this project my task was to identify the top 5 categories perfered by the
 as well as provide valuabe insights and answer some more business questions regarding the content data.
 
 
-![full-1](https://github.com/user-attachments/assets/49a15890-a7c4-4686-8a17-048451a50f0e)
+
 
 
 
@@ -40,6 +40,8 @@ Project presentation:
 ![image](https://github.com/user-attachments/assets/040de507-1d0c-466e-b082-6a0da95cdb9e)\
 
 ![image](https://github.com/user-attachments/assets/dd336b00-c8ed-4a85-b41a-bbd103ea69a1)
+
+![full-1](https://github.com/user-attachments/assets/49a15890-a7c4-4686-8a17-048451a50f0e)
 
 
 
