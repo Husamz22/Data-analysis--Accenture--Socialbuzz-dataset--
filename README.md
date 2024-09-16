@@ -41,8 +41,6 @@ Project presentation:
 
 ![image](https://github.com/user-attachments/assets/dd336b00-c8ed-4a85-b41a-bbd103ea69a1)
 
-![full-1](https://github.com/user-attachments/assets/49a15890-a7c4-4686-8a17-048451a50f0e)
-
 
 
 
